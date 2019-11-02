@@ -1,4 +1,4 @@
-#Classe responsável por conectar o software com o banco de dados
+#Classe responsável por conectar o software com o banco de dados SQLite
 
 import sqlite3
 
